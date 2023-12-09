@@ -22,6 +22,7 @@ int main()
         }
     }
     cout << a[0];
+    
 
     return 0;
 }
